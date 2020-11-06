@@ -1,0 +1,14 @@
+this is one kind of programm that i created to ensure that 
+I am good at java programming. And its been a while science 
+I programm a application in java to build a book storing application
+it will do something like ask the user if he or she went to run the application 
+by prassing 1 or 0 
+then if the user press the 1 then it will enter into the programm and then it will
+show the user some menue that will help the user which think to use and what to do
+**Programm description:
+i use the calss and the arraylist to store the list of book when he or she went to 
+store the book 
+the user also can sotore the book that he or she went to store for reading in the 
+future
+the user also can delet the list of book from the list as he or she went but I think 
+their will still some problem but in the future I will fixed it insallah..
